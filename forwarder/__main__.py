@@ -12,15 +12,16 @@ Hᴇʏ {} I'ᴍ Kᴏᴛ Fᴏʀᴡᴀʀᴅᴇʀ Bᴏᴛ
 
 I'ᴍ ᴀ Bᴏᴛ Usᴇᴅ Tᴏ Fᴏʀᴡᴀʀᴅ Mᴇssᴀɢᴇ Fʀᴏᴍ Oɴᴇ Cʜᴀᴛ Tᴏ Aɴᴏᴛʜᴇʀ. 
 
-Tᴏ Oʙᴛᴀɪɴ ᴀ Lɪsᴛ Oғ Cᴏᴍᴍᴀɴᴅs, Use /help
+Tᴏ Oʙᴛᴀɪɴ ᴀ Lɪsᴛ Oғ Cᴏᴍᴍᴀɴᴅs, Use /help 
+Fᴏʀ Mᴏʀᴇ : @KOT_BOTS
 """
 
 PM_HELP_TEXT = """
-Here is a list of usable commands:
- - /start : Starts the bot.
- - /help : Sends you this help message.
+Hᴇʟᴘ Cᴏᴍᴍᴇɴᴛs 
+- /start 
+- /help
 
-just send /id in private chat/group/channel and i will reply it's id.
+Jᴜsᴛ Sᴇɴᴅ /id Iɴ Pʀɪᴠᴀᴛᴇ Cʜᴀᴛ/Gʀᴏᴜᴘ/Cʜᴀɴɴᴇʟ Aɴᴅ ɪ Wɪʟʟ Rᴇᴘʟʏ Iᴛ's Iᴅ
 """
 
 for module in ALL_MODULES:
